@@ -1,0 +1,8 @@
+.pio
+
+# IDE files
+.idea
+.vscode
+
+# General
+.DS_Store
